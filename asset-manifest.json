@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/main-portfolio/static/css/main.d7951277.css",
+    "main.js": "/main-portfolio/static/js/main.97557266.js",
+    "static/media/awa.png": "/main-portfolio/static/media/awa.43766b09d4863cc2cf19.png",
+    "static/media/LINDA_AWASIRI_RESUME.pdf.pdf": "/main-portfolio/static/media/LINDA_AWASIRI_RESUME.pdf.fb8a3dfb61ecebfb4e73.pdf",
+    "static/media/im4.jpg": "/main-portfolio/static/media/im4.8a2640f9cba7b1a82480.jpg",
+    "static/media/img1.jpg": "/main-portfolio/static/media/img1.18454db391a029946ece.jpg",
+    "static/media/bg.jpg": "/main-portfolio/static/media/bg.d580cd375921d13ae60d.jpg",
+    "static/media/programming-skills.svg": "/main-portfolio/static/media/programming-skills.d19983a9bee884277ffa.svg",
+    "static/media/projects.svg": "/main-portfolio/static/media/projects.2b352a52b0588dab62f5.svg",
+    "static/media/interests.svg": "/main-portfolio/static/media/interests.809890a3e4fb0938f61b.svg",
+    "index.html": "/main-portfolio/index.html",
+    "static/media/education.svg": "/main-portfolio/static/media/education.025fac57fc7c52e6d33c.svg",
+    "static/media/work-history.svg": "/main-portfolio/static/media/work-history.a566475dedb99dea4bb8.svg",
+    "main.d7951277.css.map": "/main-portfolio/static/css/main.d7951277.css.map",
+    "main.97557266.js.map": "/main-portfolio/static/js/main.97557266.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7951277.css",
+    "static/js/main.97557266.js"
+  ]
+}
